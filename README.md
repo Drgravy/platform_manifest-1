@@ -23,7 +23,7 @@ Init core trees for google, exynos and non CodeAuroraForum devices:
 
 for devices which are using CodeAuroraForum trees:
 
-    $ repo init -u https://github.com/AICP/platform_manifest.git -b kitkat-caf
+    $ repo init -u https://github.com/Drgravy/platform_manifest-1.git -b kitkat-caf
 
 sync repo :
 
